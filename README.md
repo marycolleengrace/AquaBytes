@@ -1,5 +1,5 @@
-# AquaBytes
-AquaBytes is a responsive website developed for a children's swimming lesson business. It combines modern web technologies to deliver a seamless user experience, making sure that parents can easily navigate, register for lessons, and learn more about the company. The site follows best practices for web development, including responsive design, accessibility, and cross-browser compatibility.
+# Splashes
+Splashes is a responsive website developed for a children's swimming lesson business. It combines modern web technologies to deliver a seamless user experience, making sure that parents can easily navigate, register for lessons, and learn more about the company. The site follows best practices for web development, including responsive design, accessibility, and cross-browser compatibility.
 
 # Features
 Home Page: Introduction to the business with a hero image, navigation, and key info.
